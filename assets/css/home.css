@@ -23,7 +23,6 @@
 .container .p {
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
-
 }
 .container .h2 {
     font-family: 'Oswald', sans-serif;
@@ -42,13 +41,10 @@
     min-height: 100px;
     margin-bottom: 100px;
 }
-.container .tamanho .h-title-sobre {
-    width: 100%;
-    height: 50px;
-    border-bottom: 2px solid #00E0FF;
+.container .tamanho .tamcor {
     margin-bottom: 25px;
 }
-.container .tamanho .h-title-sobre h2 {
+.container .tamanho .tamcor h2 {
     margin-top: 5%;    
 }
 .container .tamanho .paragraf {
@@ -193,7 +189,7 @@
     font-size: 18px;
 }
 .container .h-contato .item p {
-    font-size: 18px;
+    font-size: 18px; 
     color: #00E0FF;
 }
 footer {
