@@ -26,6 +26,13 @@
 }
 
 /* Sobre */
+.container .tamcor {
+    width: 100%;
+    height: 50px;
+    border-bottom: 2px solid #00E0FF;
+    margin-bottom: 50px;
+}
+
 .container .tamanho {
     width: 100%;
     min-height: 100px;
@@ -53,13 +60,8 @@
 }
 
 /* Experiência */
-.container .h-experiencia .h-title-experiencia {
-    width: 100%;
-    height: 50px;
-    border-bottom: 2px solid #00E0FF;
-    margin-bottom: 50px;
-}
-.container .h-experiencia .h-title-experiencia h2 {
+
+.container .h-experiencia .tamcor h2 {
     margin-top: 5%;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
@@ -122,13 +124,9 @@
 
     
 
-.container .tamanho .h-title-educacao {
-    width: 100%;
-    height: 50px;
-    border-bottom: 2px solid #00E0FF;
-    margin-bottom: 50px;
-}
-.container .tamanho .h-title-educacao h2 {
+
+
+.container .tamanho .tamcor h2 {
     margin-top: 5%;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
@@ -171,13 +169,8 @@
     min-height: 100px;
     margin-bottom: 100px;
 }
-.container .h-habilidades .h-title-habilidades {
-    width: 100%;
-    height: 50px;
-    border-bottom: 2px solid #00E0FF;
-    margin-bottom: 50px;
-}
-.container .h-habilidades .h-title-habilidades h2 {
+
+.container .h-habilidades .tamcor h2 {
     margin-top: 5%;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
@@ -243,13 +236,8 @@
     min-height: 200px;
     margin-bottom: 50px;
 }
-.container .h-contato .h-title-contato {
-    width: 100%;
-    min-height: 50px;
-    border-bottom: 2px solid #00E0FF;
-    margin-bottom: 50px;
-}
-.container .h-contato .h-title-contato h2 {
+
+.container .h-contato .tamcor h2 {
     margin-top: 5%;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
