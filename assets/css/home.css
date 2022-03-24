@@ -22,6 +22,21 @@
     color: #00E0FF;
 }
 /* Sobre */
+
+.container .p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+
+}
+
+.container .h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    text-transform: uppercase;
+
+}
+
 .container .tamcor {
     width: 100%;
     height: 50px;
@@ -40,12 +55,7 @@
     margin-bottom: 25px;
 }
 .container .tamanho .h-title-sobre h2 {
-    margin-top: 5%;
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
-    font-size: 26px;
-    text-transform: uppercase;
-    
+    margin-top: 5%;    
 }
 .container .tamanho .paragraf {
     font-family: 'Oswald', sans-serif;
@@ -56,16 +66,10 @@
 /* Experiência */
 .container .h-experiencia .tamcor h2 {
     margin-top: 5%;
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
-    font-size: 26px;
-    text-transform: uppercase;
-
 }
 .container .h-experiencia .h-itens {
     width: 100%;
     min-height: 100px;
-
 }
 .container .h-experiencia .h-itens .item {
     display: flex;
@@ -79,52 +83,32 @@
     min-height: 100px;
 }
 .container .h-experiencia .h-itens .item .work h2 {
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
     font-size: 22px;
     margin-bottom: 10px;
-    text-transform: uppercase;
-    
 }
 .container .h-experiencia .h-itens .item .work p {
-    font-family: 'Oswald', sans-serif;
-    font-weight: normal;
     font-size: 22px;
     text-transform: uppercase;
-    
 }
 .container .h-experiencia .h-itens .item .description {
     width: 75%;
     min-height: 100px;
 }
 .container .h-experiencia .h-itens .item .description h2 {
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
     font-size: 22px;
     margin-bottom: 10px;
-    text-transform: uppercase;
     color: #00E0FF;
 }
 .container .h-experiencia .h-itens .item .description p {
-    font-family: 'Oswald', sans-serif;
-    font-weight: normal;
     font-size: 18px;
     text-align: justify;
-    
 }
 
 /* apagado o tamanho da educação */
 
-    
-
-
 .container .tamanho .tamcor h2 {
     margin-top: 5%;
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
-    font-size: 26px;
-    text-transform: uppercase;
-    
+    font-size: 26px;    
 }
 .container .tamanho .item {
     width: 100%;
@@ -134,11 +118,7 @@
     margin-bottom: 10px;
 }
 .container .tamanho .item .title h2 {
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
     font-size: 22px;
-    text-transform: uppercase;
-
 }
 .container .tamanho .item .title span {
     font-family: 'Oswald', sans-serif;
@@ -148,11 +128,8 @@
     color: #00E0FF;
 }
 .container .tamanho .item p {
-    font-family: 'Oswald', sans-serif;
-    font-weight: normal;
     text-align: justify;
     font-size: 18px;
-    
 }
 
 /* Habilidades  tamanho apagado para testar*/
@@ -164,11 +141,7 @@
 
 .container .h-habilidades .tamcor h2 {
     margin-top: 5%;
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
     font-size: 26px;
-    text-transform: uppercase;
-    color: #000000;
 }
 .container .h-habilidades .item {
     display: flex;
@@ -181,11 +154,7 @@
     min-width: 150px;
 }
 .container .h-habilidades .item h2 {
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
     font-size: 18px;
-    text-transform: uppercase;
-    
 }
 .container .h-habilidades .item .icon {
     position: relative;
@@ -197,9 +166,6 @@
     background: transparent;
 }
 /* Percentuais */
-
-
-
 .container .h-habilidades .item .icon .percentual-10 {
     width: 110px;
     height: 100%;
@@ -232,26 +198,16 @@
 }
 .container .h-contato .tamcor h2 {
     margin-top: 5%;
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
     font-size: 26px;
-    text-transform: uppercase;
-    color: #000000;
 }
 .container .h-contato .item {
     width: 100%;
     min-height: 80px;
 }
 .container .h-contato .item h2 {
-    font-family: 'Oswald', sans-serif;
-    font-weight: bold;
     font-size: 18px;
-    text-transform: uppercase;
-    color: #000000;
 }
 .container .h-contato .item p {
-    font-family: 'Oswald', sans-serif;
-    font-weight: normal;
     font-size: 18px;
     color: #00E0FF;
 }
