@@ -14,29 +14,23 @@
     text-transform: uppercase;
 }
 .container .h-name h1 {
-    font-size: 48px;  
-    
+    font-size: 48px;     
 }
 .container .h-name h2 {
     font-size: 32px;
     color: #00E0FF;
-}
-/* Sobre */
-
+}/* Sobre */
 .container .p {
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
 
 }
-
 .container .h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     font-size: 26px;
     text-transform: uppercase;
-
 }
-
 .container .tamcor {
     width: 100%;
     height: 50px;
@@ -62,8 +56,7 @@
     font-style: normal;
     text-align: justify;
     font-size: 18px;
-}
-/* Experiência */
+}/* Experiência */
 .container .h-experiencia .tamcor h2 {
     margin-top: 5%;
 }
@@ -102,10 +95,7 @@
 .container .h-experiencia .h-itens .item .description p {
     font-size: 18px;
     text-align: justify;
-}
-
-/* apagado o tamanho da educação */
-
+}/* apagado o tamanho da educação */
 .container .tamanho .tamcor h2 {
     margin-top: 5%;
     font-size: 26px;    
@@ -130,15 +120,12 @@
 .container .tamanho .item p {
     text-align: justify;
     font-size: 18px;
-}
-
-/* Habilidades  tamanho apagado para testar*/
+}/* Habilidades  tamanho apagado para testar*/
 .container .h-habilidades {
     width: 100%;
     min-height: 100px;
     margin-bottom: 100px;
 }
-
 .container .h-habilidades .tamcor h2 {
     margin-top: 5%;
     font-size: 26px;
@@ -164,8 +151,7 @@
     border: 1px solid #e7e7e7;
     border-radius: 6px;
     background: transparent;
-}
-/* Percentuais */
+}/* Percentuais */
 .container .h-habilidades .item .icon .percentual-10 {
     width: 110px;
     height: 100%;
@@ -189,8 +175,7 @@
     height: 100%;
     border-radius: 6px;
     background-color: #00E0FF;   
-}
-/* Contato */
+}/* Contato */
 .container .h-contato {
     width: 100%;
     min-height: 200px;
