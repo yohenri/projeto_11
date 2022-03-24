@@ -26,18 +26,18 @@
 }
 
 /* Sobre */
-.container .h-sobre {
+.container .tamanho {
     width: 100%;
     min-height: 100px;
     margin-bottom: 100px;
 }
-.container .h-sobre .h-title-sobre {
+.container .tamanho .h-title-sobre {
     width: 100%;
     height: 50px;
     border-bottom: 2px solid #00E0FF;
     margin-bottom: 25px;
 }
-.container .h-sobre .h-title-sobre h2 {
+.container .tamanho .h-title-sobre h2 {
     margin-top: 5%;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
@@ -45,7 +45,7 @@
     text-transform: uppercase;
     color: #000000;
 }
-.container .h-sobre .paragraf {
+.container .tamanho .paragraf {
     font-family: 'Oswald', sans-serif;
     font-style: normal;
     text-align: justify;
@@ -70,6 +70,7 @@
 .container .h-experiencia .h-itens {
     width: 100%;
     min-height: 100px;
+
 }
 .container .h-experiencia .h-itens .item {
     display: flex;
@@ -117,18 +118,17 @@
     color: #000000;
 }
 
-/* Educação */
-.container .h-educacao {
-    width: 100%;
-    min-height: 100px;
-}
-.container .h-educacao .h-title-educacao {
+/* apagado o tamanho da educação */
+
+    
+
+.container .tamanho .h-title-educacao {
     width: 100%;
     height: 50px;
     border-bottom: 2px solid #00E0FF;
     margin-bottom: 50px;
 }
-.container .h-educacao .h-title-educacao h2 {
+.container .tamanho .h-title-educacao h2 {
     margin-top: 5%;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
@@ -136,28 +136,28 @@
     text-transform: uppercase;
     color: #000000;
 }
-.container .h-educacao .item {
+.container .tamanho .item {
     width: 100%;
     min-height: 220px;
 }
-.container .h-educacao .item .title {
+.container .tamanho .item .title {
     margin-bottom: 10px;
 }
-.container .h-educacao .item .title h2 {
+.container .tamanho .item .title h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     font-size: 22px;
     text-transform: uppercase;
     color: #232323;
 }
-.container .h-educacao .item .title span {
+.container .tamanho .item .title span {
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     font-size: 22px;
     text-transform: uppercase;
     color: #00E0FF;
 }
-.container .h-educacao .item p {
+.container .tamanho .item p {
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
     text-align: justify;
